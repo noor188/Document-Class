@@ -1,5 +1,5 @@
 # Document-Class
-Model a document class that can be used in a text ediotr or word procesor
+Model a document class that can be used in a text editor or word processor
 
 # Analysis
 Text editor/ word processor need to be able to:
